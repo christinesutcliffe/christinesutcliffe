@@ -1,12 +1,12 @@
 ### Hi there 👋  
 
-🔭 I’m currently working on bridging past and contemporary cultures and building audience engagement in the arts. 
+🔮 I’m currently working on bridging past and contemporary cultures and building audience engagement in the arts. 
      <br><br>
 👯 I’m looking to collaborate on innovative projects that incorporate technology and the arts.
      <br><br>
-📫 You can reach me at [Link]https://www.linkedin.com/in/christinesutcliffe/. 
+📲 You can reach me on [LinkedIn](https://www.linkedin.com/in/christinesutcliffe/). 
      <br><br>
-⚡ Fun fact: I'm an educator and have co-composed operas with children across Toronto!
+🎼 Fun fact: I'm an educator and have co-composed operas with children across Toronto!
      <br><br>
 
 <!--
