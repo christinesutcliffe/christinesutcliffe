@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my projects. 
+### Hi there 👋  
 
 🔭 I’m currently working on bridging past and contemporary cultures and building audiences in the arts. 
      <br><br>
