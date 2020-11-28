@@ -1,9 +1,13 @@
 ### Hi there 👋 Welcome to my projects. 
 
 🔭 I’m currently working on bridging past and contemporary cultures and building audiences in the arts. 
+     <br><br>
 👯 I’m looking to collaborate on innovative projects that incorporate technology and the arts.
+     <br><br>
 📫 You can reach me at [Link]https://www.linkedin.com/in/christinesutcliffe/. 
+     <br><br>
 ⚡ Fun fact: I'm an educator and have co-composed operas with children across Toronto!
+     <br><br>
 
 <!--
 **christinesutcliffe/christinesutcliffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
