@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-🔮 I’m currently working on bridging past and contemporary cultures and building audience engagement in the arts. 
+🔮 I’m currently working on bridging art, culture, and technology. 
      <br><br>
 👯 I’m looking to collaborate on innovative projects that incorporate technology and the arts.
      <br><br>
