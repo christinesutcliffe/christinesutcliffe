@@ -1,7 +1,5 @@
 ### Hi there 👋  
 
-🔮 I’m currently working on bridging art, culture, and technology. 
-     <br><br>
 👯 I’m looking to collaborate on innovative projects that incorporate technology and the arts.
      <br><br>
 📲 You can reach me on [LinkedIn](https://www.linkedin.com/in/christinesutcliffe/). 
