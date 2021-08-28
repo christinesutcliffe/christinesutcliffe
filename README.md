@@ -4,12 +4,12 @@ I work at the intersection of music, art, and technology. I leverage digital too
 
 Select experience highlights include: <br>
 
-• 🎨 Increased international representation on Vortic Art’s AR/VR platform (vortic.art) by creating a catalogue of museums and foundations across 33 countries, 310 institutions, and over 200 artists. 🎨
-  <br>
-• 🎤 Grew listeners on The Gould Standard podcast (with guests including Ai Weiwei and Laurie Anderson) by 23% by leading podcast monetization, sponsorship, and feature efforts. 🎤
-  <br>
-• 🎭 Advanced Canadian cultural programming by leading digital and in-person workshops at the Canadian Opera Company, reaching 1,250 audience members. 🎭
-  <br>
+🎨 Increased international representation on Vortic Art’s AR/VR platform (vortic.art) by creating a catalogue of museums and foundations across 33 countries, 310 institutions, and over 200 artists. 🎨
+  <br><br>
+🎤 Grew listeners on The Gould Standard podcast (with guests including Ai Weiwei and Laurie Anderson) by 23% by leading podcast monetization, sponsorship, and feature efforts. 🎤
+  <br><br>
+🎭 Advanced Canadian cultural programming by leading digital and in-person workshops at the Canadian Opera Company, reaching 1,250 audience members. 🎭
+  <br><br>
 
 I am also pursuing a Master’s degree at the University of Oxford (full-tuition scholarship) studying podcasting and music. I get excited about opportunities to build my understanding of computer science and am currently working towards the Accelerated Computer Science Fundamentals Specialization offered by the University of Illinois. I have previously completed Google’s Project Management certificate and aim to pursue a career that borrows from these skills. <br>
 
