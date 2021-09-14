@@ -1,29 +1,23 @@
-### Hi there 👋  
+## Hi there 👋  
 
-I work at the intersection of music, art, and technology. I leverage digital tools and my knowledge of computer science and the arts to bring music, art, and key cultural moments to new audiences. <br>
+I work at the intersection of music, art, and technology. I leverage digital tools and my knowledge of computer science and the arts to bring music, art, and key cultural moments to new audiences. 🎧  <br> 
 
-Select experience highlights include: <br>
+🌱 I’m currently learning about interactivity & music in podcasting as a Master's student at the Univeristy of Oxford. 
+<br><br>
+🍀 I get excited about building my understanding of computer science and am working towards the Accelerated Computer Science Fundamentals Specialization offered by the University of Illinois. 
+<br><br>
+🌳 I completed [Google's Project Management Certificate](https://www.credly.com/badges/d5c19090-5f14-476c-9007-d219469f636c?source=linked_in_profile) and hope to apply those skills in my future work. 
 
-🎨 Increased international representation on Vortic Art’s AR/VR platform (vortic.art) by creating a catalogue of museums and foundations across 33 countries, 310 institutions, and over 200 artists. 🎨
+#### My work experience highlights include: 
+
+🎨 Increased international representation on [Vortic Art’s AR/VR platform](vortic.art) by creating a catalogue of museums and foundations across 33 countries, 310 institutions, and over 200 artists.
   <br><br>
-🎤 Grew listeners on The Gould Standard podcast (with guests including Ai Weiwei and Laurie Anderson) by 23% by leading podcast monetization, sponsorship, and feature efforts. 🎤
+🎤 Grew listeners on [The Gould Standard podcast](https://open.spotify.com/show/11Fm8scsFHXj2JbDj7HZDR) (with guests including Ai Weiwei and Laurie Anderson) by 23% by leading podcast monetization, sponsorship, and feature efforts. 
   <br><br>
-🎭 Advanced Canadian cultural programming by leading digital and in-person workshops at the Canadian Opera Company, reaching 1,250 audience members. 🎭
+🎭 Advanced Canadian cultural programming by teaching digital and in-person workshops at the Canadian Opera Company.
   <br><br>
 
-I am also pursuing a Master’s degree at the University of Oxford (full-tuition scholarship) studying podcasting and music. I get excited about opportunities to build my understanding of computer science and am currently working towards the Accelerated Computer Science Fundamentals Specialization offered by the University of Illinois. I have previously completed Google’s Project Management certificate and aim to pursue a career that borrows from these skills. <br>
+## Let's Get In Touch! ☕️
 
-<!--
-**christinesutcliffe/christinesutcliffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/christinesutcliffe/) \
+hello.christinesutcliffe@gmail.com
