@@ -2,7 +2,7 @@
 
 I work at the intersection of music, art, and technology. I leverage digital tools and my knowledge of computer science and the arts to bring music, art, and key cultural moments to new audiences. 🎧  <br> 
 
-🌱 I’m currently learning about interactivity & music in podcasting as a Master's student at the Univeristy of Oxford. 
+🌱 I’m currently learning about interactivity & music in podcasting as a Master's student at the University of Oxford. 
 <br><br>
 🍀 I get excited about building my understanding of computer science and am working towards the Accelerated Computer Science Fundamentals Specialization offered by the University of Illinois. 
 <br><br>
@@ -17,7 +17,7 @@ I work at the intersection of music, art, and technology. I leverage digital too
 🎭 Advanced Canadian cultural programming by teaching digital and in-person workshops at the Canadian Opera Company.
   <br><br>
 
-## Let's Get In Touch! ☕️
+## Let's get in touch! ☕️
 
 [LinkedIn](https://www.linkedin.com/in/christinesutcliffe/) \
 hello.christinesutcliffe@gmail.com
