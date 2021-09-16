@@ -10,11 +10,11 @@ I work at the intersection of music, art, and technology. I leverage digital too
 
 #### My work experience highlights include: 
 
-🎨 Increased international representation on [Vortic Art’s AR/VR platform](vortic.art) by creating a catalogue of museums and foundations across 33 countries, 310 institutions, and over 200 artists.
+🎨 Grew public engagement in art by launching experiences on [Vortic Art’s AR/VR platform](vortic.art) by collaborating with artists, museums, galleries, and engineers
   <br><br>
 🎤 Grew listeners on [The Gould Standard podcast](https://open.spotify.com/show/11Fm8scsFHXj2JbDj7HZDR) (with guests including Ai Weiwei and Laurie Anderson) by 23% by leading podcast monetization, sponsorship, and feature efforts. 
   <br><br>
-🎭 Advanced Canadian cultural programming by teaching digital and in-person workshops at the Canadian Opera Company.
+🎭 Advanced Canadian cultural programming by teaching over 100 workshops and community events at the Canadian Opera Company.
   <br><br>
 
 ## Let's get in touch! ☕️
