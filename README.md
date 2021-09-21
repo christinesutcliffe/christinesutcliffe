@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I work at the intersection of music, art, and technology. I leverage digital tools and my knowledge of computer science and the arts to bring music, art, audio, and key cultural moments to new audiences. 🎧  <br> 
+I work at the intersection of arts, culture, and technology. I leverage digital tools and my knowledge of computer science and the arts to bring music, art, audio, and key cultural moments to new audiences. 🎧  <br> 
 
 🌱 I’m currently learning about interactivity & music in podcasting as a Master's student at the University of Oxford. 
 <br><br>
@@ -20,4 +20,4 @@ I work at the intersection of music, art, and technology. I leverage digital too
 ## Let's get in touch! ☕️
 
 [LinkedIn](https://www.linkedin.com/in/christinesutcliffe/) \
-hello.christinesutcliffe@gmail.com
+hello.christinesutcliffe (at) gmail.com
