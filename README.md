@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I work at the intersection of music, art, and technology. I leverage digital tools and my knowledge of computer science and the arts to bring music, art, and key cultural moments to new audiences. 🎧  <br> 
+I work at the intersection of music, art, and technology. I leverage digital tools and my knowledge of computer science and the arts to bring music, art, audio, and key cultural moments to new audiences. 🎧  <br> 
 
 🌱 I’m currently learning about interactivity & music in podcasting as a Master's student at the University of Oxford. 
 <br><br>
